@@ -14,4 +14,3 @@
 - Ler livros 📖
 - Assistir séries/filmes 📺
 - Ouvir músicas 🎧
-- 
